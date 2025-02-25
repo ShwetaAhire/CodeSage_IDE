@@ -1,0 +1,18 @@
+# Models and model files  *.safetensors  *.bin  *.pt  *.pth  *.onnx  models/  # Dependencies  node_modules/  venv/  env/  __pycache__/  *.pyc  # Binary and library files  *.dll  *.lib  *.so  # Build outputs  dist/  build/  *.egg-info/ 
+*.safetensors 
+*.bin 
+*.pt 
+*.pth 
+*.onnx 
+models/ 
+node_modules/ 
+venv/ 
+env/ 
+__pycache__/ 
+*.pyc 
+*.dll 
+*.lib 
+*.so 
+dist/ 
+build/ 
+*.egg-info/ 
